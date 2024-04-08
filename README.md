@@ -1,27 +1,20 @@
-# Mozambique Public Datasets
+# Datasets Públicos de Moçambique
 
-Welcome to the Mozambique Public Datasets repository! This repository aims to provide a central location for accessing various public datasets related to Mozambique, catering to researchers, analysts, policymakers, and developers interested in gaining insights into different aspects of the country.
+Este repositório alberga uma colecção crescente de dados públicos de Moçambique. Estes cobrem uma variedade de tópicos e provêm de diversas fontes confiáveis, incluindo agências governamentais, organizações internacionais, instituições de pesquisa e ONGs.
 
-## Get Started
+*Nota: Este repositório é mantido por voluntários e opera sob uma ética de código aberto. Embora sejam feitos esforços para garantir a precisão e a confiabilidade dos dados, os usuários são incentivados a verificar os dados de diversas fontes antes de tomar decisões críticas com base neles.*
 
-Start exploring the datasets available in this repository and leverage the insights they offer to gain a deeper understanding of Mozambique's socio-economic landscape. Together, let's harness the power of data to drive positive change and progress in Mozambique.
+---
+## Datasets Disponíveis
 
-Happy analyzing!
+#### Economia
 
-*Note: This repository is maintained by volunteers and operates under an open-source ethos. While efforts are made to ensure the accuracy and reliability of the datasets, users are encouraged to verify the data from multiple sources before making critical decisions based on them.*
+* [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
-## Available Datasets
+---
+## Contribuições
 
-This repository hosts a growing collection of public datasets related to Mozambique. These datasets cover a range of topics and are sourced from various reliable sources, including government agencies, international organizations, research institutions, and NGOs. Some of the datasets you can find here include:
+Agradecemos contribuições de indivíduos e organizações dispostas a partilhar conjuntos de dados públicos relacionados com Moçambique. Se você tiver e acredita serem valiosos para a comunidade, considere contribuí-los para este repositório. 
+Para contribuir, bifurque este repositório, adicione seus dados (ou links) e envie uma solicitação pull.
 
-#### Agriculture
-
-## Contributing
-
-We welcome contributions from individuals and organizations willing to share public datasets related to Mozambique. If you have datasets that you believe would be valuable to the community, please consider contributing them to this repository. Here's how you can contribute:
-
-- **Fork & Pull Request:** Fork this repository, add your datasets, and submit a pull request.
-- **Issue Submission:** If you're unable to add datasets directly, you can open an issue and provide details about the dataset you'd like to contribute, and we'll work to include it.
-
-Before contributing, please ensure that the datasets you're submitting adhere to relevant data privacy and licensing regulations and provide appropriate documentation for usage.
-
+Antes de contribuir, certifique-se de que os dados que você está enviando cumpram os regulamentos relevantes de privacidade e licenciamento de dados e forneça a documentação apropriada para uso.
