@@ -5,9 +5,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 *Nota: Este repositório é mantido por voluntários e opera sob uma ética de código aberto. Embora sejam feitos esforços para garantir a precisão e a confiabilidade dos dados, os usuários são incentivados a verificar os dados de diversas fontes antes de tomar decisões críticas com base neles.*
 
 ---
-## Datasets Disponíveis
-
-#### Economia
+## Economia
 
 * [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
