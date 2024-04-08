@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/HercoZauZau/Kutiva/main/assets/Kutiva%20Logo.png?token=GHSAT0AAAAAACPO4UJQ34AEW2SZPEFQ3D4KZQTWW3Q" alt="logo" width="100%" height="100%">
+
+---
+
 # Datasets Públicos de Moçambique
 
 Este repositório alberga uma colecção crescente de dados públicos de Moçambique. Estes cobrem uma variedade de tópicos e provêm de diversas fontes confiáveis, incluindo agências governamentais, organizações internacionais, instituições de pesquisa e ONGs.
