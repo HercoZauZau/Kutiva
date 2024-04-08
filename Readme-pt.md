@@ -9,7 +9,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 #### Economia
 
-* [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023. xlsx)
+* [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
 ---
 ## Contribuições
