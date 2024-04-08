@@ -13,6 +13,10 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
+* [Mozambique - Economic, Social, Environmental, Health, Education, Development and Energy](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mozambique)
+
+* [Mozambique - Food Prices](https://data.humdata.org/dataset/wfp-food-prices-for-mozambique)
+
 ---
 ## Contribuições
 
