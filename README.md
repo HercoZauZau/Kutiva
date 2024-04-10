@@ -33,7 +33,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * [Mozambique - Food Prices](https://data.humdata.org/dataset/wfp-food-prices-for-mozambique)
 
-## Economia
+## Educação
 
 * [Education Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-education-indicators-for-mozambique)
 
