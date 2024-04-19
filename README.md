@@ -61,7 +61,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * [Força de Trabalho](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44424?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-* [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
+* [Índice de Preço ao Consumidor - Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
 * [Mozambique - Economic, Social, Environmental, Health, Education, Development and Energy](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mozambique)
 
