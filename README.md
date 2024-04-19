@@ -19,13 +19,47 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * [Mozambique: Cyclone - Tropical storm - Mar 2024](https://data.humdata.org/dataset/mozambique-cyclone-1001053)
 
+## Ciência e Tecnologia
+
+* [Tecnologia](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
 ## Cultura
+
+* [Língua](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44421?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 * [Mozambique: Languages](https://data.humdata.org/dataset/mozambique-languages)
 
+* [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+## Demografia
+
+* [Estado Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44403?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Habitação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44433?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Migrações](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44445?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Mortalidade e Fecundidade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44430?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Orfandade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44427?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [População](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44400?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Registo Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44412?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Resultados do Censo 2017](https://www.ine.gov.mz/web/guest/d/resultados-do-censo-2017-apresentacao-final1)
+
+* [Tipo Somático - Raça](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44409?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
 ## Economia
 
+* [Bancarização](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44442?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Bens Duráveis Nacionais](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44436?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
 * [External Debt Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-mozambique)
+
+* [Força de Trabalho](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44424?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 * [Índice de Preço ao Consumidor-Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
@@ -35,6 +69,8 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 ## Educação
 
+* [Educação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44418?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
 * [Education Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-education-indicators-for-mozambique)
 
 ## Saúde
@@ -42,6 +78,8 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 * [Health Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-health-indicators-for-mozambique)
 
 * [Mozambique Healthsites](https://data.humdata.org/dataset/mozambique-healthsites)
+
+* [Deficiências](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44415?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 ---
 ## Contribuições
