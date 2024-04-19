@@ -21,7 +21,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 ## Ciência e Tecnologia
 
-* [Tecnologia](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+* [Uso de Tecnologias](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 ## Cultura
 
