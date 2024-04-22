@@ -9,29 +9,133 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 *Nota: Este repositório é mantido por voluntários e opera sob uma ética de código aberto. Embora sejam feitos esforços para garantir a precisão e a confiabilidade dos dados, os usuários são incentivados a verificar os dados de diversas fontes antes de tomar decisões críticas com base neles.*
 
 ---
-## Ambiente
+## Acção Humanitária
 
-* [Climate Change Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-mozambique)
+* [Mozambique - Consolidated 5Ws](https://data.humdata.org/dataset/mozambique-hrp-5ws-response)
 
-* [Cyclone Idai - Aerial Survey](https://data.humdata.org/dataset/aerial-survey-idai-24-29-march-2019)
+* [Eastern and Southern Africa Risk Analysis](https://data.humdata.org/dataset/eastern-and-southern-africa-risk-analysis)
 
-* [Environment Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-environment-indicators-for-mozambique)
+* [Mozambique: Operational Presence](https://data.humdata.org/dataset/mozambique-3ws-2023-jan-nov)
 
-* [Mozambique: Cyclone - Tropical storm - Mar 2024](https://data.humdata.org/dataset/mozambique-cyclone-1001053)
+* [Mozambique: Operational Presence](https://data.humdata.org/dataset/mozambique-operational-presence)
+
+* [Mozambique - IFRC Appeals](https://data.humdata.org/dataset/ifrc-appeals-data-for-mozambique)
+
+* [Interagency Response Plans](https://data.humdata.org/dataset/interagency-response-plans)
+
+* [Mozambique - Work of InterAction Members](https://data.humdata.org/dataset/interaction-data-for-mozambique)
+
+* [Mozambique: HRP and Gombe ERP Response](https://data.humdata.org/dataset/mozambique-hrp-and-gombe-erp-response-data)
+
+* [Mozambique: HRP Response Monitoring](https://data.humdata.org/dataset/hrp-response-monitoring-5ws)
+
+* [Mozambique: Humanitarian Needs and Response 2024](https://data.humdata.org/dataset/mozambique-2024-humanitarian-needs-and-response-data)
+
+* [Flood: Humanitarian Response Plan (HRP) Countries Hazard Data for Disaster...](https://data.humdata.org/dataset/climada-flood-dataset)
+
+* [Tropical cyclone: Humanitarian Response Plan (HRP) Countries Hazard Data for...](https://data.humdata.org/dataset/climada-tropical-cyclone-dataset)
+
+* [Wildfire: Humanitarian Response Plan (HRP) Countries Hazard Data for...](https://data.humdata.org/dataset/climada-wildfire-dataset)
+
+* [Earthquakes: Humanitarian Response Plan (HRP) Countries Hazard Data for...](https://data.humdata.org/dataset/climada-earthquake-dataset)
+
+* [Crop production: Humanitarian Response Plan (HRP) Countries Exposure Data...](https://data.humdata.org/dataset/climada-crop-production-dataset)
+
+* [LitPop: Humanitarian Response Plan (HRP) Countries Exposure Data for...](https://data.humdata.org/dataset/climada-litpop-dataset)
+
+* [Humanitarian Response Plan projects for Mozambique](https://data.humdata.org/dataset/hrp-projects-moz)
+
+* [Humanitarian Needs and Funding 2010-2024](https://data.humdata.org/dataset/global-humanitarian-overview-2024-figures)
+
+* [Mozambique: Humanitarian Needs Overview](https://data.humdata.org/dataset/mozambique_humanitarian-needs)
+
+* [Global Health Humanitarian Overview - HRP data](https://data.humdata.org/dataset/global-health-humanitarian-overview-hrp-data)
+
+* [Mozambique: Humanitarian Needs Overview](https://data.humdata.org/dataset/mozambique-hno)
+
+* [Eastern and Southern Africa Humanitarian Situation and Response](https://data.humdata.org/dataset/eastern-southern-africa-humanitarian-situation-and-response-dec2019)
+
+* [Humanitarian Access Indicators](https://data.humdata.org/dataset/access-indicators)
+
+* [Eastern and Southern Africa humanitarian update, Annual 2019](https://data.humdata.org/dataset/eastern-and-southern-africa-humanitarian-update-october-2019)
+
+* [Aid Worker KIKA (Killed, Injured, Kidnapped or Arrested) Data](https://data.humdata.org/dataset/sind-aid-worker-kka-dataset)
+
+* [Mozambique - Aid Worker Security Database](https://data.humdata.org/dataset/aid-worker-security-database-moz)
+
+* [Current IATI aid activities in Mozambique](https://data.humdata.org/dataset/iati-moz)
+
+* [UNICEF Eastern and Southern Africa Risks and Hazards- situation](https://data.humdata.org/dataset/unicef-eastern-and-southern-africa-risks-and-hazards-situation)
+
+
+## Infraestrutura
+
+* [Airports in Mozambique](https://data.humdata.org/dataset/ourairports-moz)
+
+* [Mozambique Healthsites](https://data.humdata.org/dataset/mozambique-healthsites)
+
+* [Mozambique: Health Facilities (Cabo Delgado)](https://data.humdata.org/dataset/herams-cabo-delgado-dataset)
+
+* [Mozambique - Health facilities](https://data.humdata.org/dataset/mozambique-health-facilities)
+
+
+## Meio Ambiente
+
+* [Mozambique: Rainfall Indicators at Subnational Level](https://data.humdata.org/dataset/moz-rainfall-subnational)
+
+* [Mozambique - Climate Change](https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-mozambique)
+
+* [Mozambique - Environment](https://data.humdata.org/dataset/world-bank-environment-indicators-for-mozambique)
+
+* [Mozambique: NDVI at Subnational Level](https://data.humdata.org/dataset/moz-ndvi-subnational)
+
+* [Climate Change Opinion Survey](https://data.humdata.org/dataset/climate-change-opinion-survey)
+
 
 ## Ciência e Tecnologia
 
 * [Uso de Tecnologias](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
+* [Mozambique - Science and Technology](https://data.humdata.org/dataset/world-bank-science-and-technology-indicators-for-mozambique)
+
+* [Facebook Social Connectedness Index](https://data.humdata.org/dataset/social-connectedness-index)
+
+
 ## Cultura
 
-* [Língua](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44421?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+* [Língua (Idiomas Locais)](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44421?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-* [Mozambique: Languages](https://data.humdata.org/dataset/mozambique-languages)
 
 * [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-## Demografia
+* [Mozambique: Languages](https://data.humdata.org/dataset/mozambique-languages)
+
+
+## Demografia e População
+
+* [Mozambique Intersectoral Severity](https://data.humdata.org/dataset/mozambique-intersectoral-severity-2023)
+
+* [Mozambique Monthly FEWS NET Cross Border Trade Data](https://data.humdata.org/dataset/monthly_cross_border_trade_for_mozambique_299)
+
+* [Movement Distribution](https://data.humdata.org/dataset/movement-distribution)
+
+* [Disability data Cabo Delgado Metuge Chiure](https://data.humdata.org/dataset/disability-data-cabo-delgado-metuge-chiure)
+
+* [Mozambique: Level 1 Exposure Data](https://data.humdata.org/dataset/mozambique-level-1-exposure-data)
+
+* [Child Protection Area of Responsibility Organizations](https://data.humdata.org/dataset/child-protection-aor-organization)
+
+* [Child protection response monitoring as of 7th May](https://data.humdata.org/dataset/child-protection-response-monitoring-as-of-7th-may)
+
+* [Mozambique rapid assessment April 2019](https://data.humdata.org/dataset/moz-rapid-assessment-april2019)
+
+* [Mozambique - WorldPop Population Estimates by COD Administrative Unit](https://data.humdata.org/dataset/worldpop-by-cod-moz)
+
+* [Assessment Registry Mozambique](https://data.humdata.org/dataset/assessment-registry-mozambique)
+
+* [Mozambique Rapid Needs Assessment](https://data.humdata.org/dataset/mozambique-rapid-needs-assessment)
+
+* [Mozambique - Data on forcibly displaced populations and stateless persons](https://data.humdata.org/dataset/unhcr-population-data-for-moz)
 
 * [Estado Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44403?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
@@ -51,35 +155,234 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * [Tipo Somático - Raça](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44409?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-## Economia
+* [Mozambique - Gender](https://data.humdata.org/dataset/world-bank-gender-indicators-for-mozambique)
+
+* [Mozambique - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-moz)
+
+* [Mozambique - IDMC Event data (Internal Displacement Updates)](https://data.humdata.org/dataset/idmc-event-data-for-moz)
+
+* [DRC Displacement Forecasts](https://data.humdata.org/dataset/drc-displacement-forecasts)
+
+* [Mozambique - Internal displacements (New Displacements) - IDPs](https://data.humdata.org/dataset/idmc-idp-data-moz)
+
+* [Survey on Gender Equality At Home](https://data.humdata.org/dataset/survey-on-gender-equality-at-home)
+
+* [Conflict-Related Sexual Violence (CRSV) Data](https://data.humdata.org/dataset/conflict-related-sexual-violence)
+
+
+## Conflitos e Ataques
+
+* [Mozambique - Conflict Events](https://data.humdata.org/dataset/mozambique-acled-conflict-data)
+
+* [Mozambique - Data on Conflict Events](https://data.humdata.org/dataset/ucdp-data-for-mozambique)
+
+* [Mozambique (MOZ): Attacks on Aid Operations and Health Care](https://data.humdata.org/dataset/mozambique-attacks-on-aid-operations-education-health-and-protection)
+
+* [Attacks on Health Care in Countries in Conflict (SHCC) Data](https://data.humdata.org/dataset/shcchealthcare-dataset)
+
+* [Mozambique Displacement Data - Baseline Assessment - Northern Mozambique...](https://data.humdata.org/dataset/mozambique-displacement-data-baseline-assessment-northern-mozambique-crisis-iom-dtm)
+
+
+## Desastres Naturais
+
+* [Mozambique: Impact of Cyclones 2017 - 2024](https://data.humdata.org/dataset/impact-of-cyclones)
+
+* [Mozambique: Cyclone - Tropical storm - Mar 2024](https://data.humdata.org/dataset/mozambique-cyclone-1001053)
+
+* [Mozambique: Cyclone Idai Key Figures and Situation Reports Data](https://data.humdata.org/dataset/moz-idai-sitreps)
+
+* [Mozambique Displacement Data - IDAI Cyclone Sites Tracking [IOM-DTM]](https://data.humdata.org/dataset/mozambique-displacement-data-daily-sites-tracking-iom-dtm)
+
+* [Mozambique, Zimbabwe, Malawi-Post cyclone, drought, disease outbreak for...](https://data.humdata.org/dataset/mozambique-zimbabwe-malawi-post-cyclone-drought-disease-outbreak-for-idai-countries)
+
+* [Mozambique Cyclone Kenneth 3W/4W](https://data.humdata.org/dataset/mozambique-cyclone-kenneth-3w-4w)
+
+* [Mozambique Cyclone Idai 3W/4W](https://data.humdata.org/dataset/mozambique-cyclone-idai-4w)
+
+* [Mozambique Cyclone Idai Data](https://data.humdata.org/dataset/mozambique-cyclone-idai-data)
+
+* [Cyclone Idai - Aerial Survey](https://data.humdata.org/dataset/aerial-survey-idai-24-29-march-2019)
+
+* [Cyclone Dineo - Windspeeds and rainfall](https://data.humdata.org/dataset/cyclone-dineo-windspeeds)
+
+* [Mozambique Displacement - [IDPs] - Site Assessment - Idai - [IOM DTM]](https://data.humdata.org/dataset/mozambique-displacement-data-site-assessment-idai-iom-dtm)
+
+* [Mozambique Displacement - Multi Sectoral Location Assessment - Kenneth - [IOM DTM]](https://data.humdata.org/dataset/mozambique-displacement-multi-sectoral-location-assessment-kenneth-iom-dtm)
+
+* [Mozambique Displacement Data - Baseline Assessment - Idai - [IOM DTM]](https://data.humdata.org/dataset/mozambique-displacement-data-baseline-assessment-idai-iom-dtm)
+
+
+## Economia e Finanças
 
 * [Bancarização](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44442?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 * [Bens Duráveis Nacionais](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44436?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-* [External Debt Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-mozambique)
-
 * [Força de Trabalho](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44424?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
 * [Índice de Preço ao Consumidor - Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx)
 
-* [Mozambique - Economic, Social, Environmental, Health, Education, Development and Energy](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mozambique)
+* [Mozambique - External Debt](https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-mozambique)
 
-* [Mozambique - Food Prices](https://data.humdata.org/dataset/wfp-food-prices-for-mozambique)
+* [Mozambique - Financial Sector](https://data.humdata.org/dataset/world-bank-financial-sector-indicators-for-mozambique)
+
+* [Mozambique - Economy and Growth](https://data.humdata.org/dataset/world-bank-economy-and-growth-indicators-for-mozambique)
+
+* [Mozambique - Agriculture and Rural Development](https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-mozambique)
+
+* [Mozambique - Trade](https://data.humdata.org/dataset/world-bank-trade-indicators-for-mozambique)
+
+* [Mozambique - Requirements and Funding Data](https://data.humdata.org/dataset/fts-requirements-and-funding-data-for-mozambique)
+
+* [Mozambique - Economic, Social, Environmental, Health, Education, Development...](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mozambique)
+
+* [Mozambique - Millenium development goals](https://data.humdata.org/dataset/world-bank-millenium-development-goals-indicators-for-mozambique)
+
+* [Mozambique - Poverty](https://data.humdata.org/dataset/world-bank-poverty-indicators-for-mozambique)
+
+* [Mozambique: subnational poverty trends](https://data.humdata.org/dataset/mozambique-mpi)
+
+* [Small Business Surveys - Aggregated Data](https://data.humdata.org/dataset/future-of-business-survey-aggregated-data)
+
+* [Relative Wealth Index](https://data.humdata.org/dataset/relative-wealth-index)
+
+* [AfDB Socio Economic Database, 1960-2019](https://data.humdata.org/dataset/afdb-socio-economic-database-1960-2019)
+
+* [African Economic Outlook January 2019](https://data.humdata.org/dataset/african-economic-outlook-august-2015)
+
+* [Income Activities](https://data.humdata.org/dataset/income-activitie)
+
+* [Mozambique - Urban Development](https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-mozambique)
+
+* [Mozambique - Social Development](https://data.humdata.org/dataset/world-bank-social-development-indicators-for-mozambique)
+
+* [Mozambique - Public Sector](https://data.humdata.org/dataset/world-bank-public-sector-indicators-for-mozambique)
+
+* [Mozambique - Private Sector](https://data.humdata.org/dataset/world-bank-private-sector-indicators-for-mozambique)
+
+* [Mozambique - Social Protection and Labor](https://data.humdata.org/dataset/world-bank-social-protection-and-labor-indicators-for-mozambique)
+
+* [Mozambique - Infrastructure](https://data.humdata.org/dataset/world-bank-infrastructure-indicators-for-mozambique)
+
+* [Mozambique - Energy and Mining](https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-mozambique)
+
+* [Mozambique - Aid Effectiveness](https://data.humdata.org/dataset/world-bank-aid-effectiveness-indicators-for-mozambique)
+
+* [Topline Indicators](https://data.humdata.org/dataset/world-bank-country-topline-indicators)
+
+* [Mozambique - Human Development Indicators](https://data.humdata.org/dataset/hdro-data-for-mozambique)
+
 
 ## Educação
 
+* [Education in Danger Monthly News Brief Data](https://data.humdata.org/dataset/sind-education-in-danger-monthly-news-briefs-dataset)
+
 * [Educação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44418?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
 
-* [Education Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-education-indicators-for-mozambique)
+* [Mozambique - Education](https://data.humdata.org/dataset/world-bank-education-indicators-for-mozambique)
+
+* [Mozambique: Schools](https://data.humdata.org/dataset/mozambique-school-data)
+
+* [Mozambique - Education Indicators](https://data.humdata.org/dataset/unesco-data-for-mozambique)
+
 
 ## Saúde
 
-* [Health Indicators for Mozambique](https://data.humdata.org/dataset/world-bank-health-indicators-for-mozambique)
+* [Mozambique - Health Indicators](https://data.humdata.org/dataset/who-data-for-mozambique)
 
-* [Mozambique Healthsites](https://data.humdata.org/dataset/mozambique-healthsites)
+* [Mozambique - Health](https://data.humdata.org/dataset/world-bank-health-indicators-for-mozambique)
+
+* [World Health Organization (WHO) Cholera Data](https://data.humdata.org/dataset/world-health-organization-who-cholera-data)
 
 * [Deficiências](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44415?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_pfpz_redirect=https%3A%2F%2Fwww.ine.gov.mz%2Fweb%2Fguest%2Fcenso-2017%2F-%2Fdocument_library%2Fpfpz%2Fview%2F44367)
+
+* [Mozambique - Subnational Demographic and Health Data](https://data.humdata.org/dataset/dhs-subnational-data-for-mozambique)
+
+* [Mozambique - National Demographic and Health Data](https://data.humdata.org/dataset/dhs-data-for-mozambique)
+
+* [Health - HRP Monitoring Framework](https://data.humdata.org/dataset/health-hrp-monitoring-framework)
+
+* [GHC - Secondary Health Data Catalog](https://data.humdata.org/dataset/ghc-secondary-health-data-catalog)
+
+* [NgenIRS Mopeia cross-sectional survey 2017](https://data.humdata.org/dataset/ngenirs-mopeia-cross-sectional-survey-2017)
+
+* [NgenIRS Project Mopeia active case detection cohort](https://data.humdata.org/dataset/ngenirs-project-mopeia-active-case-detection-cohort)
+
+* [NgenIRS Mopeia cross-sectional survey 2018](https://data.humdata.org/dataset/ngenirs-mopeia-cross-sectional-survey-2018)
+
+* [NgenIRS Project Mopeia passive case detection](https://data.humdata.org/dataset/ngenirs-project-mopeia-passive-case-detection)
+
+
+## Segurança Alimentar e Nutrição
+
+* [Mozambique Acute Malnutrtion August 2023](https://data.humdata.org/dataset/mozambique-acute-malnutrtion-august-2023-xlsx)
+
+* [Admissions for Treatment of Severe Acute Malnutrition (SAM)](https://data.humdata.org/dataset/number-of-admissions-for-treatment-of-severe-acute-malnutrition-sam)
+
+* [Mozambique : Acute Malnutrition](https://data.humdata.org/dataset/mozambique-acute-malnutrtion-by-admin2)
+
+* [FAO Data in Emergencies Monitoring System (DIEM)](https://data.humdata.org/dataset/fao-diem-monitoring-system-household-surveys-aggregated-data)
+
+* [Mozambique - Food Prices (FAO)](https://data.humdata.org/dataset/faostat-food-prices-for-mozambique)
+
+* [Mozambique - Food Prices (WFP)](https://data.humdata.org/dataset/wfp-food-prices-for-mozambique)
+
+* [Mozambique Medium Term Projection FEWS NET Acute Food Insecurity...](https://data.humdata.org/dataset/mozambique_medium_term_projection__fewsnet_ipc_classification)
+
+* [Mozambique Most Likely in 6 months FEWS NET Acutely Food Insecure Population...](https://data.humdata.org/dataset/mozambique_most_likely_in_6_months_fewsnet_fipe)
+
+* [Mozambique Most Likely FEWS NET Acutely Food Insecure Population Estimates Data](https://data.humdata.org/dataset/mozambique_most_likely_fewsnet_fipe)
+
+* [Mozambique Near Term Projection FEWS NET Acute Food Insecurity Classifications Data](https://data.humdata.org/dataset/mozambique_near_term_projection__fewsnet_ipc_classification)
+
+* [Mozambique: Acute Food Insecurity Country Data](https://data.humdata.org/dataset/mozambique-acute-food-insecurity-country-data)
+
+* [Mozambique Current Situation FEWS NET Acutely Food Insecure Population Estimates Data](https://data.humdata.org/dataset/mozambique_current_situation_fewsnet_fipe)
+
+* [IPC Acute Food Insecurity Country Data](https://data.humdata.org/dataset/ipc-country-data)
+
+* [Mozambique Current Situation FEWS NET Acute Food Insecurity Classifications Data](https://data.humdata.org/dataset/mozambique_current_situation_fewsnet_ipc_classification)
+
+* [Mozambique - Food Security Indicators](https://data.humdata.org/dataset/wfp-food-security-indicators-for-mozambique)
+
+* [Food Consumption Score (FCS)](https://data.humdata.org/dataset/food-consumption-score-fcs)
+
+
+## Dados Sobre a COVID
+
+* [Immunization Campaigns Impacted due to COVID-19](https://data.humdata.org/dataset/immunization-campaigns-impacted)
+
+* [COVID-19 Vaccine Doses in HRP Countries](https://data.humdata.org/dataset/covid-19-vaccine-doses-in-hrp-countries)
+
+* [Mozambique: Coronavirus (COVID-19) Subnational Cases](https://data.humdata.org/dataset/mozambique-coronavirus-covid-19-subnational-cases)
+
+* [Harmonized COVID-19 Household Monitoring Surveys](https://data.humdata.org/dataset/harmonized-covid-19-household-monitoring-surveys)
+
+* [Africa: Covid-19 Recoveries (National)](https://data.humdata.org/dataset/africa-covid-19-recovered-cases)
+
+* [Africa: Covid-19 Cumulative Recoveries (National)](https://data.humdata.org/dataset/africa-covid-19-cumulative-recoveries)
+
+* [Africa: Covid-19 Death cases (National)](https://data.humdata.org/dataset/africa-covid-19-death-cases)
+
+* [Africa: Covid-19 Cumulative Deaths (National)](https://data.humdata.org/dataset/africa-covid-19-cumulative-deaths)
+
+* [Africa: Covid-19 Infections (National)](https://data.humdata.org/dataset/africa-covid19-infected)
+
+* [Africa: Covid-19 Cumulative infections (National)](https://data.humdata.org/dataset/africa-covid-19-cumulative-infected-cases)
+
+* [Africa: Coronavirus (Covid-19) Continental cases (Infections, Recoveries and Deaths)](https://data.humdata.org/dataset/covid19_africa_continental_infections-recoveries-deaths)
+
+* [Ongoing Impacts of COVID-19 in Sub-Saharan Africa](https://data.humdata.org/dataset/ongoing-impacts-of-covid-19-in-sub-saharan-africa)
+
+* [UN Collective Results on the COVID-19 Socioeconomic Response in 2020](https://data.humdata.org/dataset/un-collective-results-on-the-covid-19-socioeconomic-response-in-2020)
+
+* [Eastern and Southern Africa COVID-19 - UNICEF - Situation and Response](https://data.humdata.org/dataset/eastern-and-southern-africa-covid-19-unicef-situation-and-response)
+
+* [COVID19 Impacts and Vaccine Acceptance in sub-Saharan Africa](https://data.humdata.org/dataset/covid19-impacts-and-vaccine-acceptance-in-sub-saharan-africa)
+
+* [Economic Impact of COVID-19 in Sub-Saharan Africa](https://data.humdata.org/dataset/economic-impact-of-covid-19-in-sub-saharan-africa)
+
+* [Perceptions and impact of Coronavirus in Sub-Saharan African countries](https://data.humdata.org/dataset/covid-19-impacts-africa)
 
 ---
 ## Contribuições
