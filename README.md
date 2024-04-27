@@ -193,7 +193,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [III RGPH 2007](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/240928) [[Detalhes]]()
 
-* :heavy_check_mark: [IV Recenseamento Geral da População e Habitação, 2017 - Indicadores Sócio-demográficos Moçambique](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44355) [[Detalhes]]()
+* :heavy_check_mark: [IV Recenseamento Geral da População e Habitação, 2017](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44355) [[Detalhes]]()
 
 * :heavy_check_mark: [Indicadores de Curto Prazo](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44610) [[Detalhes]]()
 
