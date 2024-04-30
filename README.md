@@ -106,6 +106,16 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 * :heavy_check_mark: [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406) 
 
 
+## Dados Geoespaciais
+
+
+* :heavy_check_mark: [Entidades Administrativas](datasets/Dados%20Geoespaciais/entidades_administrativas) 
+
+* :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos/) 
+
+* :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias/)
+
+
 ## Dados Sobre a COVID
 
 
