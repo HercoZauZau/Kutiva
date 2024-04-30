@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HercoZauZau/Kutiva/main/assets/Kutiva%20Logo.png?" alt="logo" width="100%" height="100%">
+<img src="assets/Kutiva%20Logo.png?" alt="logo" width="100%" height="100%">
 
 ---
 
