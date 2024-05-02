@@ -2,6 +2,11 @@
 
 Bem-vind@ ao Kutiva! Agradecemos muito o seu interesse em contribuir para tornar este repositório uma fonte valiosa de dados públicos de Moçambique. Abaixo, você encontrará algumas orientações sobre como pode contribuir.
 
+<img src="assets/programming_girl.jpg" alt="programming_girl" width="100%" height="100%">
+
+---
+
+
 ## Como Contribuir
 
 ### 1. Adicionando Novos Links de Dados
