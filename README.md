@@ -498,7 +498,6 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 ---
 ## Contribuições
 
-Agradecemos contribuições de indivíduos e organizações dispostas a partilhar conjuntos de dados públicos relacionados com Moçambique. Se você tiver e acredita serem valiosos para a comunidade, considere contribuí-los para este repositório. 
-Para contribuir, bifurque este repositório, adicione links (ou dados) e envie uma solicitação pull.
+Valorizamos as contribuições de indivíduos e organizações que estão dispostos a partilhar conjuntos de dados públicos relacionados a Moçambique. Se você possui dados que considera valiosos para a comunidade, por favor, considere contribuir para este repositório.
 
-Antes de contribuir, certifique-se de que os dados que você está enviando cumpram os regulamentos relevantes de privacidade e licenciamento de dados.
+Antes de enviar sua contribuição, consulte nosso [Guia de Contribuição](GuiaDeContribuição.md) para garantir que os dados estejam em conformidade com os regulamentos pertinentes de privacidade e licenciamento de dados.
