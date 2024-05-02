@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "capitais_provinciais",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 6, "TIPO_TOP": 51, "TOPONIMO": "CHIMOIO" }, "geometry": { "type": "Point", "coordinates": [ 33.487388580337623, -19.114492349431636 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "TIPO_TOP": 51, "TOPONIMO": "BEIRA" }, "geometry": { "type": "Point", "coordinates": [ 34.84126278953984, -19.845590652208717 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 20, "TIPO_TOP": 51, "TOPONIMO": "QUELIMANE" }, "geometry": { "type": "Point", "coordinates": [ 36.888290427755422, -17.876178786304131 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 43, "TIPO_TOP": 51, "TOPONIMO": "MAPUTO" }, "geometry": { "type": "Point", "coordinates": [ 32.587440455852587, -25.977140417189197 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 60, "TIPO_TOP": 51, "TOPONIMO": "TETE" }, "geometry": { "type": "Point", "coordinates": [ 33.586864470315945, -16.156570351632546 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 85, "TIPO_TOP": 51, "TOPONIMO": "NAMPULA" }, "geometry": { "type": "Point", "coordinates": [ 39.264217333667318, -15.120491968790006 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 105, "TIPO_TOP": 51, "TOPONIMO": "PEMBA" }, "geometry": { "type": "Point", "coordinates": [ 40.507144964045757, -12.961060485633455 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 111, "TIPO_TOP": 51, "TOPONIMO": "LICHINGA" }, "geometry": { "type": "Point", "coordinates": [ 35.23968505497821, -13.312675481303085 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 135, "TIPO_TOP": 51, "TOPONIMO": "INHAMBANE" }, "geometry": { "type": "Point", "coordinates": [ 35.382816330423232, -23.865173406346475 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 145, "TIPO_TOP": 51, "TOPONIMO": "XAI-XAI" }, "geometry": { "type": "Point", "coordinates": [ 33.64399719512523, -25.05322654722362 ] } }
+]
+}
