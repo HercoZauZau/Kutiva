@@ -325,7 +325,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Indicadores de Curto Prazo da Indústria (ICPI)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105452) 
 
-* :heavy_check_mark: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
+* :x: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
 
 * :heavy_check_mark: [Indicadores em Flash](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105459) 
 
