@@ -111,9 +111,13 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Entidades Administrativas](datasets/Dados%20Geoespaciais/entidades_administrativas) 
 
-* :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos/) 
+* :heavy_check_mark: [Parques e Reservas](datasets/Dados%20Geoespaciais/parques_e_reservas) 
 
-* :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias/)
+* :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos) 
+
+* :heavy_check_mark: [Solos](datasets/Dados%20Geoespaciais/solos) 
+
+* :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias)
 
 
 ## Dados Sobre a COVID
