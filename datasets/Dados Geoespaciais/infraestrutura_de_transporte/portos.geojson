@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "portos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Maputo", "Province": "Maputo Cidade", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 32.583, -25.967000000000294 ] } },
+{ "type": "Feature", "properties": { "Name": "Inhambane", "Province": "Inhambane", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 35.383, -23.867000000000477 ] } },
+{ "type": "Feature", "properties": { "Name": "Beira", "Province": "Sofala", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 34.833, -19.833000000000997 ] } },
+{ "type": "Feature", "properties": { "Name": "Chinde", "Province": "Zambézia", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 36.5, -18.567000000001208 ] } },
+{ "type": "Feature", "properties": { "Name": "Quelimane", "Province": "Zambézia", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 36.883, -17.883000000000305 ] } },
+{ "type": "Feature", "properties": { "Name": "Porto Belo (Macuse)", "Province": "Zambézia", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 37.183, -17.699999999999363 ] } },
+{ "type": "Feature", "properties": { "Name": "Pebane", "Province": "Zambézia", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 38.15, -17.26700000000049 ] } },
+{ "type": "Feature", "properties": { "Name": "Moçambique", "Province": "Nampula", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 40.733, -15.033000000000152 ] } },
+{ "type": "Feature", "properties": { "Name": "Nacala", "Province": "Nampula", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 40.667, -14.533000000000653 ] } },
+{ "type": "Feature", "properties": { "Name": "Pemba", "Province": "Cabo Delgado", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 40.5, -12.967 ] } },
+{ "type": "Feature", "properties": { "Name": "Ibo", "Province": "Cabo Delgado", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 40.617, -12.333000000000519 ] } },
+{ "type": "Feature", "properties": { "Name": "Savane", "Province": "Sofala", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 35.140005752000036, -19.663963946999935 ] } },
+{ "type": "Feature", "properties": { "Name": "Techobanine", "Province": "Maputo", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 32.898811485000067, -26.685250061000293 ] } },
+{ "type": "Feature", "properties": { "Name": "Mocimboa da Praia", "Province": "Cabo Delgado", "Layer": "Ports" }, "geometry": { "type": "Point", "coordinates": [ 40.355328775000089, -11.347096596000295 ] } }
+]
+}
