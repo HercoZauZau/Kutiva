@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HercoZauZau/Kutiva/main/assets/Kutiva%20Logo.png?" alt="logo" width="100%" height="100%">
+<img src="assets/Kutiva%20Logo.png?" alt="logo" width="100%" height="100%">
 
 ---
 
@@ -59,7 +59,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Mozambique: Humanitarian Needs Overview](https://data.humdata.org/dataset/mozambique_humanitarian-needs) 
 
-* :heavy_check_mark: [Mozambique: Humanitarian Needs and Response 2024](https://data.humdata.org/dataset/mozambique-2024-humanitarian-needs-and-response-data) 
+* :x: [Mozambique: Humanitarian Needs and Response 2024](https://data.humdata.org/dataset/mozambique-2024-humanitarian-needs-and-response-data) 
 
 * :heavy_check_mark: [Mozambique: Operational Presence](https://data.humdata.org/dataset/mozambique-3ws-2023-jan-nov) 
 
@@ -104,6 +104,20 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 * :heavy_check_mark: [Mozambique: Languages](https://data.humdata.org/dataset/mozambique-languages) 
 
 * :heavy_check_mark: [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406) 
+
+
+## Dados Geoespaciais
+
+
+* :heavy_check_mark: [Entidades Administrativas](datasets/Dados%20Geoespaciais/entidades_administrativas) 
+
+* :heavy_check_mark: [Parques e Reservas](datasets/Dados%20Geoespaciais/parques_e_reservas) 
+
+* :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos) 
+
+* :heavy_check_mark: [Solos](datasets/Dados%20Geoespaciais/solos) 
+
+* :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias)
 
 
 ## Dados Sobre a COVID
@@ -311,7 +325,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Indicadores de Curto Prazo da Indústria (ICPI)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105452) 
 
-* :heavy_check_mark: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
+* :x: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
 
 * :heavy_check_mark: [Indicadores em Flash](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105459) 
 
@@ -488,7 +502,6 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 ---
 ## Contribuições
 
-Agradecemos contribuições de indivíduos e organizações dispostas a partilhar conjuntos de dados públicos relacionados com Moçambique. Se você tiver e acredita serem valiosos para a comunidade, considere contribuí-los para este repositório. 
-Para contribuir, bifurque este repositório, adicione links (ou dados) e envie uma solicitação pull.
+Valorizamos as contribuições de indivíduos e organizações que estão dispostos a partilhar conjuntos de dados públicos relacionados a Moçambique. Se você possui dados que considera valiosos para a comunidade, por favor, considere contribuir para este repositório.
 
-Antes de contribuir, certifique-se de que os dados que você está enviando cumpram os regulamentos relevantes de privacidade e licenciamento de dados.
+Antes de enviar sua contribuição, consulte nosso [Guia de Contribuição](GuiaDeContribuição.md) para garantir que os dados estejam em conformidade com os regulamentos pertinentes de privacidade e licenciamento de dados.
