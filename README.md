@@ -111,6 +111,8 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Entidades Administrativas](datasets/Dados%20Geoespaciais/entidades_administrativas) 
 
+* :heavy_check_mark: [Infraestrutura de Transporte](datasets/Dados%20Geoespaciais/infraestrutura_de_transporte) 
+
 * :heavy_check_mark: [Parques e Reservas](datasets/Dados%20Geoespaciais/parques_e_reservas) 
 
 * :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos) 
