@@ -121,6 +121,8 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias)
 
+* :heavy_check_mark: [Geologia](datasets/Dados%20Geoespaciais/geologia)
+
 
 ## Dados Sobre a COVID
 
