@@ -469,7 +469,11 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Admissions for Treatment of Severe Acute Malnutrition (SAM)](https://data.humdata.org/dataset/number-of-admissions-for-treatment-of-severe-acute-malnutrition-sam) 
 
-* :heavy_check_mark: [FAO Data in Emergencies Monitoring System (DIEM)](https://data.humdata.org/dataset/fao-diem-monitoring-system-household-surveys-aggregated-data) 
+* :heavy_check_mark: [FAO Data in Emergencies Monitoring System (DIEM)](https://data.humdata.org/dataset/fao-diem-monitoring-system-household-surveys-aggregated-data)
+
+* :heavy_check_mark: [FAOSTAT Suite of Food Security Indicators](https://www.fao.org/faostat/en/#data/FS)
+
+* :heavy_check_mark: [FAOSTAT Crops and livestock products](https://www.fao.org/faostat/en/#data/QCL)
 
 * :heavy_check_mark: [Food Consumption Score (FCS)](https://data.humdata.org/dataset/food-consumption-score-fcs) 
 
