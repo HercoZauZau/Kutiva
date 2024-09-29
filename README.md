@@ -117,7 +117,9 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 * :heavy_check_mark: [Recursos Hídricos](datasets/Dados%20Geoespaciais/recursos_hidricos) 
 
-* :heavy_check_mark: [Solos](datasets/Dados%20Geoespaciais/solos) 
+* :heavy_check_mark: [Solos](datasets/Dados%20Geoespaciais/solos)
+
+* :heavy_check_mark: [Uso e Cobertura do Solo](https://www.arcgis.com/apps/instant/media/index.html?appid=fc92d38533d440078f17678ebc20e8e2&fbclid=IwAR39qNqpVYDkGfSmdHimFjOSgRxyS41AgaxoGwS0H8HGu-xgCA_5mkn3uw4)
 
 * :heavy_check_mark: [Vias de Acesso](datasets/Dados%20Geoespaciais/vias)
 
