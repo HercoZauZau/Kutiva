@@ -84,6 +84,7 @@ Este repositório alberga uma colecção crescente de dados públicos de Moçamb
 
 ## Conflitos e Ataques
 
+* :heavy_check_mark: [Mozambique - Incidents during post-election demonstrations, 2024](https://www.kaggle.com/datasets/pintoarmando/incidentes-em-manifestaes-em-moambique-2024)
 
 * :heavy_check_mark: [Attacks on Health Care in Countries in Conflict (SHCC) Data](https://data.humdata.org/dataset/shcchealthcare-dataset) 
 
