@@ -16,6 +16,7 @@
 
 * :heavy_check_mark: *Link Disponível*
 * :x: *Link Quebrado*
+* :warning: *Por confirmar / acesso bloqueado*
 
 ---
 
@@ -65,7 +66,7 @@
 
 * :heavy_check_mark: [Mozambique: Humanitarian Needs Overview](https://data.humdata.org/dataset/mozambique_humanitarian-needs) 
 
-* :x: [Mozambique: Humanitarian Needs and Response 2024](https://data.humdata.org/dataset/mozambique-2024-humanitarian-needs-and-response-data) 
+* :heavy_check_mark: [Mozambique: Humanitarian Needs and Response 2024](https://data.humdata.org/dataset/mozambique-2024-humanitarian-needs-and-response-data) 
 
 * :heavy_check_mark: [Mozambique: Operational Presence](https://data.humdata.org/dataset/mozambique-3ws-2023-jan-nov) 
 
@@ -85,7 +86,7 @@
 
 * :heavy_check_mark: [Mozambique - Science and Technology](https://data.humdata.org/dataset/world-bank-science-and-technology-indicators-for-mozambique) 
 
-* :heavy_check_mark: [Uso de Tecnologias](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439) 
+* :warning: [Uso de Tecnologias](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44439) 
 
 
 ## Conflitos e Ataques
@@ -106,11 +107,11 @@
 ## Cultura
 
 
-* :heavy_check_mark: [Língua (Idiomas Locais)](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44421) 
+* :warning: [Língua (Idiomas Locais)](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44421) 
 
 * :heavy_check_mark: [Mozambique: Languages](https://data.humdata.org/dataset/mozambique-languages) 
 
-* :heavy_check_mark: [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406) 
+* :warning: [Religião](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44406) 
 
 
 ## Dados Geoespaciais
@@ -174,21 +175,21 @@
 ## Demografia e População
 
 
-* :heavy_check_mark: [Anuário Estatístico Nacional](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44568) 
+* :warning: [Anuário Estatístico Nacional](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44568) 
 
 * :heavy_check_mark: [Assessment Registry Mozambique](https://data.humdata.org/dataset/assessment-registry-mozambique) 
 
-* :heavy_check_mark: [Atlas](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44559) 
+* :warning: [Atlas](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44559) 
 
-* :heavy_check_mark: [Boletim Informativo](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44868) 
+* :warning: [Boletim Informativo](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44868) 
 
-* :heavy_check_mark: [Caderno de Informação Rápida](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44550) 
+* :warning: [Caderno de Informação Rápida](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44550) 
 
-* :heavy_check_mark: [Censo 2017 (Dados Gerais)](https://www.ine.gov.mz/web/guest/censo-2017) 
+* :warning: [Censo 2017 (Dados Gerais)](https://www.ine.gov.mz/web/guest/censo-2017) 
 
-* :heavy_check_mark: [Censo de Mineradores Artesanais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/111944) 
+* :warning: [Censo de Mineradores Artesanais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/111944) 
 
-* :heavy_check_mark: [Censos 1928 - 1980](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/224582) 
+* :warning: [Censos 1928 - 1980](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/224582) 
 
 * :heavy_check_mark: [Child Protection Area of Responsibility Organizations](https://data.humdata.org/dataset/child-protection-aor-organization) 
 
@@ -200,37 +201,37 @@
 
 * :heavy_check_mark: [Disability data Cabo Delgado Metuge Chiure](https://data.humdata.org/dataset/disability-data-cabo-delgado-metuge-chiure) 
 
-* :heavy_check_mark: [Estado Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44403) 
+* :warning: [Estado Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44403) 
 
-* :heavy_check_mark: [Estatísticas Territoriais (Distritais)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44394) 
+* :warning: [Estatísticas Territoriais (Distritais)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44394) 
 
-* :heavy_check_mark: [Estatísticas Vitais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44457) 
+* :warning: [Estatísticas Vitais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44457) 
 
-* :heavy_check_mark: [Estatísticas da CPLP](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44634) 
+* :warning: [Estatísticas da CPLP](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44634) 
 
-* :heavy_check_mark: [Estatísticas e Indicadores Sociais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44460) 
+* :warning: [Estatísticas e Indicadores Sociais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44460) 
 
-* :heavy_check_mark: [Estudos Temáticos - Censo 2017](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/181701) 
+* :warning: [Estudos Temáticos - Censo 2017](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/181701) 
 
-* :heavy_check_mark: [Folheto Provincial](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44727) 
+* :warning: [Folheto Provincial](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44727) 
 
-* :heavy_check_mark: [Folhetos Distritais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44730) 
+* :warning: [Folhetos Distritais](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44730) 
 
-* :heavy_check_mark: [Habitação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44433) 
+* :warning: [Habitação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44433) 
 
-* :heavy_check_mark: [III RGPH 2007](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/240928) 
+* :warning: [III RGPH 2007](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/240928) 
 
-* :heavy_check_mark: [IV Recenseamento Geral da População e Habitação, 2017](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44355) 
+* :warning: [IV Recenseamento Geral da População e Habitação, 2017](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44355) 
 
-* :heavy_check_mark: [Indicadores de Curto Prazo](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44610) 
+* :warning: [Indicadores de Curto Prazo](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44610) 
 
-* :heavy_check_mark: [Inquerito sobre Orçamento Familiar 2022](https://www.ine.gov.mz/web/guest/censo-2017) 
+* :warning: [Inquerito sobre Orçamento Familiar 2022](https://www.ine.gov.mz/web/guest/censo-2017) 
 
-* :heavy_check_mark: [Matriz de Publicações 2016](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44622) 
+* :warning: [Matriz de Publicações 2016](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44622) 
 
-* :heavy_check_mark: [Migrações](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44445) 
+* :warning: [Migrações](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44445) 
 
-* :heavy_check_mark: [Mortalidade e Fecundidade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44430) 
+* :warning: [Mortalidade e Fecundidade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44430) 
 
 * :heavy_check_mark: [Movement Distribution](https://data.humdata.org/dataset/movement-distribution) 
 
@@ -256,27 +257,27 @@
 
 * :heavy_check_mark: [Mozambique: Level 1 Exposure Data](https://data.humdata.org/dataset/mozambique-level-1-exposure-data) 
 
-* :heavy_check_mark: [Moçambique em Números](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44619) 
+* :warning: [Moçambique em Números](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44619) 
 
-* :heavy_check_mark: [Mulheres e Homens](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44616) 
+* :warning: [Mulheres e Homens](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44616) 
 
-* :heavy_check_mark: [Orfandade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44427) 
+* :warning: [Orfandade](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44427) 
 
-* :heavy_check_mark: [Panorama](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44604) 
+* :warning: [Panorama](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44604) 
 
-* :heavy_check_mark: [População](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44400) 
+* :warning: [População](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44400) 
 
-* :heavy_check_mark: [Projecções da População 2017 - 2050](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/92163) 
+* :warning: [Projecções da População 2017 - 2050](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/92163) 
 
-* :heavy_check_mark: [Registo Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44412) 
+* :warning: [Registo Civil](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44412) 
 
-* :heavy_check_mark: [Relatórios de Indicadores Distritais 2007](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45180) 
+* :warning: [Relatórios de Indicadores Distritais 2007](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45180) 
 
-* :heavy_check_mark: [Resultados do Censo 2017](https://www.ine.gov.mz/web/guest/d/resultados-do-censo-2017-apresentacao-final1) 
+* :warning: [Resultados do Censo 2017](https://www.ine.gov.mz/web/guest/d/resultados-do-censo-2017-apresentacao-final1) 
 
 * :heavy_check_mark: [Survey on Gender Equality At Home](https://data.humdata.org/dataset/survey-on-gender-equality-at-home) 
 
-* :heavy_check_mark: [Tipo Somático - Raça](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44409) 
+* :warning: [Tipo Somático - Raça](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44409) 
 
 
 ## Desastres Naturais
@@ -316,31 +317,31 @@
 
 * :heavy_check_mark: [African Economic Outlook January 2019](https://data.humdata.org/dataset/african-economic-outlook-august-2015) 
 
-* :heavy_check_mark: [Bancarização](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44442) 
+* :warning: [Bancarização](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44442) 
 
-* :heavy_check_mark: [Bens Duráveis Nacionais](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44436) 
+* :warning: [Bens Duráveis Nacionais](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44436) 
 
-* :heavy_check_mark: [Conjuntura Económica](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45003) 
+* :warning: [Conjuntura Económica](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45003) 
 
-* :heavy_check_mark: [Contas Nacionais Preliminares](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44631) 
+* :warning: [Contas Nacionais Preliminares](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44631) 
 
-* :heavy_check_mark: [Dados Fiscais 2011 a 2013](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44547) 
+* :warning: [Dados Fiscais 2011 a 2013](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44547) 
 
-* :heavy_check_mark: [Estatísticas de Bolso](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44628) 
+* :warning: [Estatísticas de Bolso](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44628) 
 
-* :heavy_check_mark: [Estatísticas de Investimento em Petróleo e Gás](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/215621) 
+* :warning: [Estatísticas de Investimento em Petróleo e Gás](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/215621) 
 
-* :heavy_check_mark: [Força de Trabalho](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44424) 
+* :warning: [Força de Trabalho](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44424) 
 
 * :heavy_check_mark: [Income Activities](https://data.humdata.org/dataset/income-activitie) 
 
-* :heavy_check_mark: [Indicadores de Confiança e de Clima Económico (ICCE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105449) 
+* :warning: [Indicadores de Confiança e de Clima Económico (ICCE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105449) 
 
-* :heavy_check_mark: [Indicadores de Curto Prazo da Indústria (ICPI)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105452) 
+* :warning: [Indicadores de Curto Prazo da Indústria (ICPI)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105452) 
 
-* :x: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
+* :warning: [Indicadores económico-financeiro das empresas - (IEFE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/196707) 
 
-* :heavy_check_mark: [Indicadores em Flash](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105459) 
+* :warning: [Indicadores em Flash](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105459) 
 
 * :heavy_check_mark: [Mozambique - Agriculture and Rural Development](https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-mozambique) 
 
@@ -380,11 +381,11 @@
 
 * :heavy_check_mark: [Mozambique: subnational poverty trends](https://data.humdata.org/dataset/mozambique-mpi) 
 
-* :heavy_check_mark: [Objectivos de Desenvolvimento Sustentável](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/169242) 
+* :warning: [Objectivos de Desenvolvimento Sustentável](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/169242) 
 
-* :heavy_check_mark: [Objectivos de Desenvolvimento do Milénio (ODM's)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44613) 
+* :warning: [Objectivos de Desenvolvimento do Milénio (ODM's)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44613) 
 
-* :heavy_check_mark: [PIB](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45000) 
+* :warning: [PIB](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/45000) 
 
 * :heavy_check_mark: [Relative Wealth Index](https://data.humdata.org/dataset/relative-wealth-index) 
 
@@ -392,13 +393,13 @@
 
 * :heavy_check_mark: [Topline Indicators](https://data.humdata.org/dataset/world-bank-country-topline-indicators) 
 
-* :heavy_check_mark: [Índice de Actividades Económicas (IAE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44470) 
+* :warning: [Índice de Actividades Económicas (IAE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44470) 
 
-* :heavy_check_mark: [Índice de Desenvolvimento Humano](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/238487) 
+* :warning: [Índice de Desenvolvimento Humano](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/238487) 
 
 * :heavy_check_mark: [Índice de Preço ao Consumidor - Moçambique 1997-2023](https://www.bancomoc.mz/media/e4lpnazh/%C3%ADndice-de-pre%C3%A7o-ao-consumidor-mocambique-1997-2023.xlsx) 
 
-* :heavy_check_mark: [Índice de Preço no Consumidor (IPC)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44479) 
+* :warning: [Índice de Preço no Consumidor (IPC)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/44479) 
 
 
 ## Educação
@@ -406,7 +407,7 @@
 
 * :heavy_check_mark: [Education in Danger Monthly News Brief Data](https://data.humdata.org/dataset/sind-education-in-danger-monthly-news-briefs-dataset) 
 
-* :heavy_check_mark: [Educação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44418) 
+* :warning: [Educação](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44418) 
 
 * :heavy_check_mark: [Mozambique - Education Indicators](https://data.humdata.org/dataset/unesco-data-for-mozambique) 
 
@@ -432,7 +433,7 @@
 
 * :heavy_check_mark: [Climate Change Opinion Survey](https://data.humdata.org/dataset/climate-change-opinion-survey) 
 
-* :heavy_check_mark: [Indicadores Básicos do Ambiente](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105462) 
+* :warning: [Indicadores Básicos do Ambiente](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/105462) 
 
 * :heavy_check_mark: [Mozambique - Climate Change](https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-mozambique) 
 
@@ -446,13 +447,13 @@
 ## Saúde
 
 
-* :heavy_check_mark: [Deficiências](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44415) 
+* :warning: [Deficiências](https://www.ine.gov.mz/web/guest/censo-2017/-/document_library/pfpz/view/44415) 
 
 * :heavy_check_mark: [GHC - Secondary Health Data Catalog](https://data.humdata.org/dataset/ghc-secondary-health-data-catalog) 
 
 * :heavy_check_mark: [Health - HRP Monitoring Framework](https://data.humdata.org/dataset/health-hrp-monitoring-framework) 
 
-* :heavy_check_mark: [Inquéritos Demográficos e de Saúde (INE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/190711) 
+* :warning: [Inquéritos Demográficos e de Saúde (INE)](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/190711) 
 
 * :heavy_check_mark: [Mozambique - Health Indicators](https://data.humdata.org/dataset/who-data-for-mozambique) 
 
@@ -488,9 +489,9 @@
 
 * :heavy_check_mark: [IPC Acute Food Insecurity Country Data](https://data.humdata.org/dataset/ipc-country-data) 
 
-* :heavy_check_mark: [Indicadores Básicos de Agricultura e Alimentação](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/169249) 
+* :warning: [Indicadores Básicos de Agricultura e Alimentação](https://www.ine.gov.mz/web/guest/estat%C3%ADsticas/-/document_library/pfpz/view/169249) 
 
-* :heavy_check_mark: [Inquérito ao Mercado Informal (INE)](https://www.ine.gov.mz/web/guest/d/infor_inquerito-ao-mercado-informal) 
+* :warning: [Inquérito ao Mercado Informal (INE)](https://www.ine.gov.mz/web/guest/d/infor_inquerito-ao-mercado-informal) 
 
 * :heavy_check_mark: [Mozambique - Food Prices (FAO)](https://data.humdata.org/dataset/faostat-food-prices-for-mozambique) 
 
