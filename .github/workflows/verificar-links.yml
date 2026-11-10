@@ -1,0 +1,47 @@
+name: KUTIVA | Verificar links
+
+on:
+  schedule:
+    # Segundas-feiras às 08h00, hora de Moçambique (UTC+2).
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kutiva-verificar-links
+  cancel-in-progress: false
+
+jobs:
+  verificar-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Obter o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verificar links e actualizar o README
+        run: python scripts/verificar_links.py
+
+      - name: Guardar alterações (quando existirem)
+        run: |
+          git add -- README.md
+          if [ -f .github/link-status.json ]; then
+            git add -- .github/link-status.json
+          elif git ls-files --error-unmatch .github/link-status.json >/dev/null 2>&1; then
+            git rm -f -- .github/link-status.json
+          fi
+          if git diff --cached --quiet; then
+            echo 'Nenhuma alteração a publicar.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: actualizar disponibilidade dos links [skip ci]'
+          git push
