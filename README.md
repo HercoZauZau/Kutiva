@@ -1,12 +1,18 @@
-<img src="assets/Kutiva%20Logo.png?" alt="logo" width="100%" height="100%">
+<p align="center"><img src="assets/Kutiva Logo ii.png" alt="KUTIVA — estudante com livros, ilustração em tons quentes" width="100%"></p>
 
----
+<h1 align="center">Dados Públicos de Moçambique</h1>
 
-# Dados Públicos de Moçambique
+<p align="center"><strong>Descobrir, explorar e partilhar dados abertos sobre Moçambique.</strong></p>
 
-Este repositório alberga uma colecção crescente de dados públicos de Moçambique. Estes cobrem uma variedade de tópicos e provêm de diversas fontes confiáveis, incluindo agências governamentais, organizações internacionais, instituições de pesquisa e ONGs.
+<p align="center">
+  <img src="https://img.shields.io/badge/recursos-222-c47551?style=flat-square" alt="222 recursos">
+  <img src="https://img.shields.io/badge/categorias-14-3b5f5a?style=flat-square" alt="14 categorias">
+  <img src="https://img.shields.io/badge/comunidade-contribui%C3%A7%C3%B5es%20abertas-d7b995?style=flat-square" alt="Contribuições abertas">
+</p>
 
-*Nota: Este repositório é mantido por voluntários e opera sob uma ética de código aberto. Embora sejam feitos esforços para garantir a precisão e a confiabilidade dos dados, os usuários são incentivados a verificar os dados de diversas fontes antes de tomar decisões críticas com base neles.*
+> **Nota:** O KUTIVA é um catálogo comunitário que reúne ligações para fontes e conjuntos de dados públicos. A inclusão de um recurso não constitui validação da sua qualidade, actualidade, licença ou disponibilidade. Confirme sempre os dados junto da fonte original antes de os utilizar.
+
+</br>
 
 * :heavy_check_mark: *Link Disponível*
 * :x: *Link Quebrado*
